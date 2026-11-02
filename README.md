@@ -19,7 +19,7 @@ The objective was to configure network segmentation, establish connectivity with
 - ICMP Connectivity Testing
 
 ## Network Topology
-
+![Cisco VLAN Network Topology](VLAN-Network-Topology.png)
 The network consists of one Cisco switch and four computers.
 
 | Device | Switch Port | VLAN | IP Address |
